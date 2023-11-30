@@ -1,0 +1,17 @@
+{
+    "name": "S",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cd007272c299ffd49bbaf46d58539819",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
