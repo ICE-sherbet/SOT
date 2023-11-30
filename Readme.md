@@ -12,3 +12,6 @@ Binder(Component) : インスペクター上でスクリプトのプロパティ
 
 ### サンプル
 [SoVariableTool] > [Core] > [Demo]内にサンプルがあります。
+
+## ライセンス
+MIT
